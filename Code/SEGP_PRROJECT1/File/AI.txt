@@ -1,0 +1,75 @@
+:- dynamic queue/1.
+queue([adam,eve,tracy,pete,john,james,ruth,david]).
+
+length_list([],0).
+length_list([_|T],N):-
+      length_list(T,N1),
+      N is N1+1.
+
+queue_length(L):-
+	queue(P),
+	length_list(P,L).
+
+
+remove_head:-
+	queue([H|T]),
+	retractall(queue([H|T])),
+	assert(queue(T)).
+
+
+
+remove_last([_],[]).
+remove_last([H|T],[H|S]):-
+	remove_last(T,S).
+
+remove:-
+	queue(Q),
+	retractall(queue(Q)),
+
+	remove_last(Q,A),
+	assert(queue(A)).
+
+
+
+join_front(S):-
+	queue(T),
+	append([S],T,Z),
+	retractall(queue(T)),
+	assert(queue(Z)).
+
+
+join_Last(L):-
+	queue(N),
+	append(N,[L],Z),
+	retractall(queue(N)),
+	assert(queue(Z)).
+
+
+
+
+
+send_back([H|T],N):-
+	append(T,[H],N).
+
+
+send_to_back:-
+	queue([H|T]),
+	send_back(([H|T]),X),
+
+	retractall(queue([H|T])),
+	assert(queue(X)).
+
+
+
+remove_s([],[]).
+remove_s([e],[e]).
+remove_s([H,_|T],[H|W]):-
+	remove_s(T,W).
+
+
+remve_every:-
+	queue([H|T]),
+	remove_s(([H|T]),D),
+
+	retractall(queue([H|T])),
+	assert(queue(D)).

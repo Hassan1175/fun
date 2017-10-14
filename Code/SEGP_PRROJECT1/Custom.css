@@ -1,0 +1,43 @@
+﻿.marquee
+{
+   margin-top : -40px;
+}
+#upp
+{
+   margin-top : 0px;
+  
+}
+
+
+.spaces
+{
+    margin-left:40%;
+}
+
+
+
+.s
+{
+    padding-right:-40%;
+}
+
+
+
+
+#headline{
+    background-color: #008000;    
+    color: white;
+    font-size: 19px;
+    margin-top:2px;
+}
+
+.con {
+    
+    text-align:center;
+}
+
+
+.about
+{
+    height:20px;
+}

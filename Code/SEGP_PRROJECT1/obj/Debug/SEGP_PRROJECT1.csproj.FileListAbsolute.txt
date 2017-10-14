@@ -1,0 +1,22 @@
+O:\Nama_College\Semester-5\SEGEP\C# Code\SEGP_PRROJECT1\SEGP_PRROJECT1\bin\SEGP_PRROJECT1.dll
+O:\Nama_College\Semester-5\SEGEP\C# Code\SEGP_PRROJECT1\SEGP_PRROJECT1\bin\SEGP_PRROJECT1.pdb
+O:\Nama_College\Semester-5\SEGEP\C# Code\SEGP_PRROJECT1\SEGP_PRROJECT1\obj\Debug\SEGP_PRROJECT1.csprojResolveAssemblyReference.cache
+O:\Nama_College\Semester-5\SEGEP\C# Code\SEGP_PRROJECT1\SEGP_PRROJECT1\obj\Debug\SEGP_PRROJECT1.dll
+O:\Nama_College\Semester-5\SEGEP\C# Code\SEGP_PRROJECT1\SEGP_PRROJECT1\obj\Debug\SEGP_PRROJECT1.pdb
+O:\Nama_College\Semester-5\SEGEP\backup\27-2-2017\SEGP_PRROJECT1\SEGP_PRROJECT1\bin\SEGP_PRROJECT1.dll
+O:\Nama_College\Semester-5\SEGEP\backup\27-2-2017\SEGP_PRROJECT1\SEGP_PRROJECT1\bin\SEGP_PRROJECT1.pdb
+O:\Nama_College\Semester-5\SEGEP\backup\27-2-2017\SEGP_PRROJECT1\SEGP_PRROJECT1\obj\Debug\SEGP_PRROJECT1.csprojResolveAssemblyReference.cache
+O:\Nama_College\Semester-5\SEGEP\backup\27-2-2017\SEGP_PRROJECT1\SEGP_PRROJECT1\obj\Debug\SEGP_PRROJECT1.dll
+O:\Nama_College\Semester-5\SEGEP\backup\27-2-2017\SEGP_PRROJECT1\SEGP_PRROJECT1\obj\Debug\SEGP_PRROJECT1.pdb
+C:\Users\ADMIN\Desktop\17-3-17\27-2-2017\SEGP_PRROJECT1\SEGP_PRROJECT1\obj\Debug\SEGP_PRROJECT1.csprojResolveAssemblyReference.cache
+C:\Users\ADMIN\Desktop\17-3-17\27-2-2017\SEGP_PRROJECT1\SEGP_PRROJECT1\obj\Debug\SEGP_PRROJECT1.dll
+O:\Nama_College\Smester 6\SEGP\SEGP_MAIN_Project\17-3-17\27-2-2017\SEGP_PRROJECT1\SEGP_PRROJECT1\obj\Debug\SEGP_PRROJECT1.csprojResolveAssemblyReference.cache
+O:\Nama_College\Smester 6\SEGP\SEGP_MAIN_Project\17-3-17\27-2-2017\SEGP_PRROJECT1\SEGP_PRROJECT1\obj\Debug\SEGP_PRROJECT1.dll
+C:\Users\ADMIN\Desktop\SEGP\SEGP_PRROJECT1\obj\Debug\SEGP_PRROJECT1.csprojResolveAssemblyReference.cache
+C:\Users\ADMIN\Desktop\SEGP\SEGP_PRROJECT1\obj\Debug\SEGP_PRROJECT1.dll
+C:\Users\ADMIN\Desktop\SEGP\SEGP - Project\SEGP_PRROJECT1\obj\Debug\SEGP_PRROJECT1.csprojResolveAssemblyReference.cache
+C:\Users\ADMIN\Desktop\SEGP\SEGP - Project\SEGP_PRROJECT1\obj\Debug\SEGP_PRROJECT1.dll
+C:\Users\ADMIN\Desktop\SEGP\Source Code\SEGP_PRROJECT1\obj\Debug\SEGP_PRROJECT1.csprojResolveAssemblyReference.cache
+C:\Users\ADMIN\Desktop\SEGP\Source Code\SEGP_PRROJECT1\obj\Debug\SEGP_PRROJECT1.dll
+O:\Nama_College\Smester 6\SEGP\SEGP Final Project\SEGP\SEGP Project - Group#6\Source Code\Source Code\SEGP_PRROJECT1\obj\Debug\SEGP_PRROJECT1.csprojResolveAssemblyReference.cache
+O:\Nama_College\Smester 6\SEGP\SEGP Final Project\SEGP\SEGP Project - Group#6\Source Code\Source Code\SEGP_PRROJECT1\obj\Debug\SEGP_PRROJECT1.dll
